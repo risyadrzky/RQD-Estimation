@@ -1,1 +1,1 @@
-# Image Based RQD (Rock Quality Designation) Estimation
+# Image-Based RQD (Rock Quality Designation) Estimation
